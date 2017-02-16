@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import BooksReducer from './reducer_boos';
+import BooksReducer from './reducer_books';
 
 // This is how we 'wire' the reducer into our application
 // combineReducers is a built-in function
